@@ -2,7 +2,7 @@ name = "bloggingwebsite"
 compatibility_date = "2024-08-18"
 
 [vars]
-DATABASE_URL="url"
+DATABASE_URL=""
 JWT_SECRET = ""
 
 #MY_VAR = "my-variable"
