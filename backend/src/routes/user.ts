@@ -27,7 +27,6 @@ userRouter.post('/signup', async (c) => {
     }
     //zod validation end--------------
   
-    
     try{
       const user = await prisma.user.create({
         data:{
